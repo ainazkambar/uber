@@ -1,0 +1,20 @@
+{
+  "name": "ainazkambar.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ainazkambar/ainazkambar.github.io.git"
+  },
+  "author": "ainazkambar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ainazkambar/ainazkambar.github.io/issues"
+  },
+  "homepage": "https://github.com/ainazkambar/ainazkambar.github.io#readme"
+}
