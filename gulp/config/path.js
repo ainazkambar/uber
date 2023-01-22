@@ -13,9 +13,10 @@ export const path = {   //Создаем общий объект path
         files: `${buildFolder}/files/`
     },
     src: {
-        images: `${srcFolder}/img/**/*.{jpg,jpeg,png,gif,webp}`,
+        images: `${srcFolder}/img/**/*.{jpg,jpeg,png,gif,webp,ico}`,
         svg: `${srcFolder}/img/**/*.svg`,
         js: `${srcFolder}/js/app.js`,
+        css: `${srcFolder}/css/**/*.*`,
         scss: `${srcFolder}/scss/style.scss`,
         html: `${srcFolder}/*.html`,
         files: `${srcFolder}/files/**/*.*`
